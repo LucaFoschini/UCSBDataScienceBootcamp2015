@@ -17,7 +17,7 @@ The goal of the course is to introduce students of the IGERT program to data sci
 # Syllabus
 
 ## Computer Basics (Day 1) 
-
+[example](../blob/master/Day01_ComputerBasics)
  - UNIX, shell
  - 
 ## Everything Data (Day 2)
