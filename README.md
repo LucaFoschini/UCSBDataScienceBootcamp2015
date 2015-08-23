@@ -5,18 +5,18 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## Instructors
 
-  - Please update the syllabus below filling in the part pertaining to your session.
-  - Please add any relevant material to the folder linked to the syllabus
+  - Please update the syllabus below filling in the part pertaining to your session, following the example for Day 1.
+  - Please add any relevant material to the folder linked to the syllabus. Try to be compliant to the directory struture of Day 1 as much as possible.
   
 ## Trainees
 
   - Please check out the repository on your local computer
   - Run the 'set_path.sh' script if using a computer from the Cooper lab
 
-
 # Syllabus
 
 ## [Computer Basics (Day 1)](../..//tree/master/Day01_ComputerBasics)
  - UNIX, shell
- - 
-## Everything Data (Day 2)
+ - IPython Notebooks
+ 
+## [Everything Data (Day 2)](../..//tree/master/Day02_EverythingData)
