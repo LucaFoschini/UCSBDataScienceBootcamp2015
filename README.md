@@ -56,17 +56,15 @@ The goal of the course is to introduce students of the IGERT program to data sci
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
   * Review of Linear Algebra's Fundamentals
-    * Matrix algebra (addition, multiplication, inversion, linear systems, determinants)
-    * Vector spaces (definitions, fundamental subspaces, linear independence, basis, rank)
-	* Angles, lengths, projection
-    * Eigenvalues, eigenvectors, their localization and computation, eigendecomposition, SVD
+    * Matrix algebra
+    * Vector spaces
+    * Angles, lengths, projection
+    * Eigenproblem, SVD
 
   * Linear Algebra and Graphs
-	* Graphs: definitions, properties, representation
+    * Graphs: definitions, properties, representation
     * Graph algorithms in the language of linear algebra
     * Spectral graph theory
-		- Spectrum of adjacency matrix
-		- Laplacians and graph partitioning
 
 ## [Introduction to Algorithms (Day 5)](../..//tree/master/Day05_AlgorithmBasics)
 
