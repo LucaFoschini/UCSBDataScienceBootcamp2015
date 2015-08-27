@@ -116,7 +116,7 @@ The goal of the course is to introduce students of the IGERT program to data sci
 ## [Introduction to Machine Learning (Day 7)](../..//tree/master/Day07_MachineLearning1)
 
   - Supervised learning 
-	* Support Vector Machine
+	* Decision Tree and Random Forest
 	* Linear Regression and Support Vector Machine
 	* Logistic Regression and Neural Network
  

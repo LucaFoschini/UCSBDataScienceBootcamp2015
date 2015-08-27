@@ -4,7 +4,7 @@ The goal of this module is to gain familiarity with basic machine learning probl
 
 ## Outline:
   - Supervised learning 
-	* Support Vector Machine
+	* Decision Tree and Random Forest
 	* Linear Regression and Support Vector Machine
 	* Logistic Regression and Neural Network
   - Unsupervised learning
