@@ -88,10 +88,15 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Dynamical Systems (Day 6)](../..//tree/master/Day06_DynamicalSystems)
 
-  - Different Networks:
-	- Play around with a given discrete-time linear dynamical system
-  - Modeling: Learn how to implement a discrete-time linear dynamical system with and without available Matlab commands/functions
-  - Visualization: Make plots of discrete-time linear dynamical system trajectory and eigenvalues with and without available Matlab commands/functions
+ - Introduction to dynamics
+ - Why is it important to study dynamics on networks? 
+ - First order dynamics - flows on a line
+ - Linear vs nonlinear dynamics
+ - Stability analysis -an intuitive explanation
+ - Lyapunov equations - an intuitive explanation
+ - Introduction to second order dynamics
+ - Eigenvalues and eigenvectors, stability
+ - Introduction to bifurcations and hysteresis
 
 ## [Foundations of Statistics (Day 7)](../..//tree/master/Day07_Stats)
 
