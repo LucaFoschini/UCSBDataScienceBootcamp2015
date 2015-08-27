@@ -1,13 +1,13 @@
 # UCSBDataScienceBootcamp2015
 
 This is a collection of material from the course IGERT Data and Network Science bootcamp, held at UCSB from 9/8/2015 to 9/18/2015.
-The goal of the course is to introduce students of the IGERT program to data science. The data sciece methods and concepts presented will mainly be oriented to analyzing networks and networks science in general.
+The goal of the course is to introduce students of the IGERT program to data science. The data science methods and concepts presented will mainly be oriented to analyzing networks and networks science in general.
 
 ## Instructors
 
   - Please provide a general outline in the syllabus below filling in the part pertaining to your session, following the example for Day 1.
   - Please add any relevant material to the folder that has been set up for your module (and linked from the syllabus)
-   * Try to be compliant to the directory struture of Day 1 as much as possible.
+   * Try to be compliant to the directory structure of Day 1 as much as possible.
    * Provide a detailed goal description and outline in the Readme.md file in the module folder following the example for Day 1
   
 ## Trainees
@@ -55,10 +55,18 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
-  - Eigenvalue, eigenvectors, spectral radius
-  - Matrices as a way to represent graphs 	
-  - Matrices associated with graphs: degree, adjacency, incidence, Laplacian
-  - Basic properties of the matrices associated with graphs: what do eigenvalues and eigenvectors of laplacian mean.
+  * Review of Linear Algebra's Fundamentals
+    * Matrix algebra (addition, multiplication, inversion, linear systems, determinants)
+    * Vector spaces (definitions, fundamental subspaces, linear independence, basis, rank)
+	* Angles, lengths, projection
+    * Eigenvalues, eigenvectors, their localization and computation, eigendecomposition, SVD
+
+  * Linear Algebra and Graphs
+	* Graphs: definitions, properties, representation
+    * Graph algorithms in the language of linear algebra
+    * Spectral graph theory
+		- Spectrum of adjacency matrix
+		- Laplacians and graph partitioning
 
 ## [Introduction to Algorithms (Day 5)](../..//tree/master/Day05_AlgorithmBasics)
 
