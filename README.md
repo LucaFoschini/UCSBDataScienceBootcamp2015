@@ -41,17 +41,19 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Visualization I (Day 3)](../..//tree/master/Day03_Vizualization1)
 
-  - Perhaps some introductory words on viz (e.g., the "talk" section of [Bret Victor](http://worrydream.com/)) 
-  - tableau public for some quick exploratory insights on small dataset
-  - python matplotlib/seaborn example
-  - python bokeh server for interactive plotting (all the course will be based on ipython notebooks) 
+  - Introduction to Visualization
+      -visual variables, design, types etc.
+  - Visualization in Academia and Industry
+  - Visualizing Live Twitter Data (Demo)
+  - Anatomy of a research paper in Visualization
 
 ## [Visualization II (Day 3)](../..//tree/master/Day03_Vizualization2)
 
-  - D3.js, dimple.js, three.js
-  - Ad-hoc visualization of complex data: ?  
-  - Network data: processing? Prefuse?
-  - Some words on more interactive visualizations.
+  - Visualizing live feeds using Python and Plot.ly (Hands-on)
+  - Visualizing network data (Fluo, TopicNets Demos) 
+  - Visualizing data in R (Hands on)
+  - Interactive Visualization (Demo)
+  
 
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
