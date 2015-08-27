@@ -41,19 +41,17 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Visualization I (Day 3)](../..//tree/master/Day03_Vizualization1)
 
-  - Introduction to Visualization
-      -visual variables, design, types etc.
-  - Visualization in Academia and Industry
-  - Visualizing Live Twitter Data (Demo)
-  - Anatomy of a research paper in Visualization
+  - Perhaps some introductory words on viz (e.g., the "talk" section of [Bret Victor](http://worrydream.com/)) 
+  - tableau public for some quick exploratory insights on small dataset
+  - python matplotlib/seaborn example
+  - python bokeh server for interactive plotting (all the course will be based on ipython notebooks) 
 
 ## [Visualization II (Day 3)](../..//tree/master/Day03_Vizualization2)
 
-  - Visualizing live feeds using Python and Plot.ly (Hands-on)
-  - Visualizing network data (Fluo, TopicNets Demos) 
-  - Visualizing data in R (Hands on)
-  - Interactive Visualization (Demo)
-  
+  - D3.js, dimple.js, three.js
+  - Ad-hoc visualization of complex data: ?  
+  - Network data: processing? Prefuse?
+  - Some words on more interactive visualizations.
 
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
@@ -117,16 +115,20 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Introduction to Machine Learning (Day 7)](../..//tree/master/Day07_MachineLearning1)
 
-  - Supervised/unsupervised learning
-  - Regression/binary classification
-  - SVM, decision trees, random forest
-  - Clustering (k-means, NN-clustering)
+  - Supervised learning 
+	* Support Vector Machine
+	* Linear Regression and Support Vector Machine
+	* Logistic Regression and Neural Network
+ 
+  - Unsupervised learning
+	* k-Means, k-Medoids, and Hierarchical Clustering
+	* Mixture Modeling
 
 ## [Machine Learning on Graphs (Day 8)](../..//tree/master/Day07_MachineLearning2)
 
-  - Machine learning on graphs
+  - Classification on graphs
   - Community detection
-  - Frequent itemsets
+  - Frequent patterns
 
 ## [Hands-on Machine Learning (Day 8)](../..//tree/master/Day08_MachineLearning3)
 
