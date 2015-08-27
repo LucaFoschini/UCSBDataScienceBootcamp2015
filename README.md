@@ -27,17 +27,17 @@ The goal of the course is to introduce students of the IGERT program to data sci
     - The importance of version control
     - Github, reproducibility and the scientific method
   - Python and Jupyter notebooks
-    - Introduction to python
+    - Introduction to Python
     - Jupyter (née IPython) notebooks
     - Will be used throughout rest of the bootcamp
  
 ## [Everything Data (Day 2)](../..//tree/master/Day02_EverythingData)
 
   - What is data? Data representation in a computer
-  - Native data types in python: integer, list, dict, numpy arrays, pandas 
+  - Native data types in Python: integer, list, dict, numpy arrays, pandas 
   - From simple to complex: text, time series, networks, geometric objects
   - Discuss complexity of manipulation of these objects. 
-  - Load and visualize different datasets on python
+  - Load and visualize different datasets on Python
 
 ## [Small Data, Big Data (Day 2)](../..//tree/master/Day02_WhatIsBigData)
 

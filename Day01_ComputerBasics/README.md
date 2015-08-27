@@ -11,7 +11,7 @@ The goal of this module is to gain familiarity with the Unix terminal, the conce
     - The importance of version control
     - Github, reproducibility and the scientific method
   - Python and Jupyter notebooks
-    - Introduction to python 
+    - Introduction to Python 
     - Jupyter (née IPython) notebooks 
     - Will be used throughout rest of the bootcamp 
 
