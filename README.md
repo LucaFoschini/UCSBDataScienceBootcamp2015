@@ -85,16 +85,25 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Graph Algorithms II (Day 6)](../..//tree/master/Day06_GraphAlgorithms2)
 
-  - Algorithms on Graphs.
-  - Connectivity SP: directed & undirected, Diameter, BFS/DFS, single source, all pairs shortest paths
-  - Diameter, BC, partitioning
-  - Example on how to compute the above in NetworkX (+ visualization) 
-  - Examples in NetworkX on real networks (social, brain)
-  - Random graphs
-  - Preferential attachment
-  - Small-world networks
-  - Large-scale and dynamics of real graphs (Web, facebook etc.)
-  - Activities: Generating and characterizing several graphs (both synthetic and real)., counting triangles. Visualization using graphViz
+  * Algorithms on Graphs.
+     * BFS/DFS
+     * Connectivity - directed & undirected
+     * Edge weighted graphs
+     * Shortest Path algorithms - Single source
+     * All pairs shortest paths
+     * Diameter
+     * Centrality
+  * Introduction to special classes of graphs
+     * Bipartite graphs
+     * Planar graphs
+  * Demonstration of a few algorithms above in networkX
+  * Examples in NetworkX on real networks (social, brain)
+  * Preferential attachment
+  * Small-world networks
+  * Activities
+     * Generating and characterizing several graphs (both synthetic and real)
+     * Counting triangles
+     * Visualization using GraphViz
 
 ## [Dynamical Systems (Day 6)](../..//tree/master/Day06_DynamicalSystems)
 
