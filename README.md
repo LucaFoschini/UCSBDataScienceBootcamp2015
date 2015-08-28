@@ -54,7 +54,6 @@ The goal of the course is to introduce students of the IGERT program to data sci
   - Visualizing data in R (Hands on)
   - Interactive Visualization (Demo)
   
-
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
   * Review of Linear Algebra's Fundamentals
@@ -115,16 +114,20 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Introduction to Machine Learning (Day 7)](../..//tree/master/Day07_MachineLearning1)
 
-  - Supervised/unsupervised learning
-  - Regression/binary classification
-  - SVM, decision trees, random forest
-  - Clustering (k-means, NN-clustering)
+  - Supervised learning 
+	* Decision Tree and Random Forest
+	* Linear Regression and Support Vector Machine
+	* Logistic Regression and Neural Network
+ 
+  - Unsupervised learning
+	* k-Means, k-Medoids, and Hierarchical Clustering
+	* Mixture Modeling
 
 ## [Machine Learning on Graphs (Day 8)](../..//tree/master/Day07_MachineLearning2)
 
-  - Machine learning on graphs
+  - Classification on graphs
   - Community detection
-  - Frequent itemsets
+  - Frequent patterns
 
 ## [Hands-on Machine Learning (Day 8)](../..//tree/master/Day08_MachineLearning3)
 
