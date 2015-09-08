@@ -1,13 +1,27 @@
+# Luca Foschini (2015)
+#
+# run with:
+#
+#    source restart_notebook.sh
+#
+# The script starts a notebook on a remote workstation on csil and forwards the connection back to the local workstation
+#
+# The remote workstation is mapped to the local one using the list "csil_machine_names", assuming the local name ends in -N where 
+# N is an integer <= 43 (the length of the csil_machine_names list
+#
+# The port chosen (both remote and local) to run the server on is a deterministic function of the username in the range 8000-13000
+
+
 #dead machines: 
 # lupin homer whiley speed
 
-#running machines
+#alive machines
 csil_machine_names=(snarf dilbert beavis cartman linus megatron marge tick popeye dagwood garfield bart butthead eeyore scooby calvin yogi mickey boris wacko snoopy aeonflux tygra taz pinky bullwinkle brain dot akira kyle kenny blondie tom booboo bugs hobbes optimus shaggy sylvester racerx lisa thundarr dudley elroy)
 
 hostname=$(hostname)
 echo "local hosttname is" $hostname
-#hostname="esbtl-4.engr.ucsb.edu"
 
+#extracts the local machine id
 machine_id=$(echo $hostname | cut -d '.' -f 1 | cut -d '-' -f 2) 
 remote_hostname=${csil_machine_names[$machine_id]}
 
@@ -19,7 +33,6 @@ black_list="10 9526"
 while true
 do
     user_port=$(( ( n % 5000 )  + i ))
-    echo $black_list $user_port
     if [[ $black_list =~ $user_port ]]
     then
 	i=$(( i + 1 ))
