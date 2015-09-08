@@ -49,7 +49,8 @@ if [ $? ]
 then
     sleep 3
     echo "Login successful!"  
-    echo "Starting Google Chrome. You might need to reload the window (Ctrl+R)" 
+    echo "Starting Google Chrome. You might need to reload the window (Ctrl+R)"
+    echo "The notebook can be found at the addres" "http://localhost:$user_port"
     /usr/bin/google-chrome-stable "http://localhost:$user_port" &
 else
     echo "Login failed. Contact the administrator" 
