@@ -37,7 +37,7 @@ The goal of the course is to introduce students of the IGERT program to data sci
   - Native data types in Python: integer, list, dict, numpy arrays, pandas 
   - From simple to complex: text, time series, networks, geometric objects
   - Discuss complexity of manipulation of these objects. 
-  - Load and visualize different datasets on Python
+  - Load and visualize different datasets on Python.
 
 ## [Small Data, Big Data (Day 2)](../..//tree/master/Day02_WhatIsBigData)
 
