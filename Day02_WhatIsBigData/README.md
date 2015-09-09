@@ -10,7 +10,7 @@
 
 ## Memory, cores, I/O
 
-  - Memories: Register, Cache, RAM, Disk (SSD/HDD), network
+  - [Latency](https://gist.github.com/jboner/2841832): Register, Cache, RAM, Disk (SSD/HDD), network
   - Why is my code running slow? (profile! top/htop)
   - Out of core vs distributed
   - Embarrassingly parallel problems (shell/python parallel)
