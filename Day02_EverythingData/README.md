@@ -1,5 +1,9 @@
 # Goals
 
+- Learn about data science
+- Learn how perform basic data manipulation with python
+- See all the things that python can do
+
 ## Intro
 
   - Why are we where today? 
@@ -12,7 +16,7 @@ IGERT ⊂ network science ⊂ data science.
 ## Data wrangling
 
   - Python primer
-  - Pandas (the missing library for data manipulation)
+  - Numpy and Pandas (the missing library for data manipulation)
   - Python-R integration
 
 ## Data Exploration
