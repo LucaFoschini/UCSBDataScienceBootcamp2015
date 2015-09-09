@@ -1,3 +1,6 @@
+*Instructor:* Luca Foschini
+*Format:* lecture an hands-on
+
 # Goals
 
 - Learn about data science
