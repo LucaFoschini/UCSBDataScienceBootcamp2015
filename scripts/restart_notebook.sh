@@ -47,7 +47,7 @@ done
 #kills notebooks currently in use, locally and remotely
 echo "Starting notebooks on remote hostname" $remote_hostname "port" $user_port
 pkill -f $remote_hostname 
-ssh -Y -q -f foschini@$remote_hostname.cs.ucsb.edu -L $user_port:localhost:$user_port 'killall ipython 2> /dev/null > /dev/null; sleep 3; export PATH="/cs/igert/share/anaconda/bin:/cs/igert/share/Wolfram/bin:$PATH"; export R_LIBS="/cs/igert/share/R/lib64/R/library"; cd ~//UCSBDataScienceBootcamp2015/; ipython notebook --port='"$user_port"' --no-browser 2> /dev/null'
+ssh -Y -q -f $remote_hostname.cs.ucsb.edu -L $user_port:localhost:$user_port 'killall ipython 2> /dev/null > /dev/null; sleep 3; export PATH="/cs/igert/share/anaconda/bin:/cs/igert/share/Wolfram/bin:$PATH"; export R_LIBS="/cs/igert/share/R/lib64/R/library"; cd ~//UCSBDataScienceBootcamp2015/; ipython notebook --port='"$user_port"' --no-browser 2> /dev/null'
 if [ $? ]
 then
     sleep 3
