@@ -1,10 +1,9 @@
-*Instructor:* Luca Foschini
+*Instructor:* Luca Foschini (email: foschini@cs.ucsb.edu) (twitter: @calimagna)
 
 *Format:* lecture an hands-on
 
 # Announcements:
   - Tweet your thoughts! #UCSBDSbootcamp2015
-  - Your instructor today: Luca Foschini (email: foschini@cs.ucsb.edu) (twitter: @calimagna)
   - If you don't have a college of engineering account, contact Tim Robinson (email: tim@cs.ucsb.edu)
   - Lunch with Prof. Francesco Bullo (Mechanical Engineering) at 12noon
   - Afternoon class (Big Data/Small Data) starts at 1.30pm
