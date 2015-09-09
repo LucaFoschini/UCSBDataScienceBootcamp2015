@@ -12,8 +12,8 @@ The goal of the course is to introduce students of the IGERT program to data sci
   
 ## Trainees
 
-  - Please check out the repository on your local computer
-  - Run the 'set_path.sh' script if using a computer from the Cooper lab
+To get started  follow the intructions here:
+[Course setup](../..//tree/master/setup.md)
 
 # Syllabus
 
