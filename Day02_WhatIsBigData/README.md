@@ -17,8 +17,8 @@
 
 ## How to deal with big data?
 
-  - be smart (sampling/approximation algorithms, divide-and-conquer)
-  - be rich [rent-a-cloud](https://aws.amazon.com/ec2/pricing/). [Digital Ocean](https://www.digitalocean.com/)
+  - be smart: (sampling/approximation algorithms, divide-and-conquer)
+  - be rich: [rent-a-cloud](https://aws.amazon.com/ec2/pricing/). [Digital Ocean](https://www.digitalocean.com/)
  
 ## Demo
   - ElasticSearch ("google your data")
