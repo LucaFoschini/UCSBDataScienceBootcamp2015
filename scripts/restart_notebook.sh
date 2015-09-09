@@ -27,7 +27,6 @@ echo "local hosttname is" $hostname
 #extracts a local machine id
 n=$(hostname | md5sum | tr -dc [0-9] | tail -c 5)
 machine_id=$(( ( n % 43 ) ))
-echo "machine id", $machine_id
 remote_hostname=${csil_machine_names[$machine_id]}
 
 #generate a user-specific port, accounting for a potential blacklist
