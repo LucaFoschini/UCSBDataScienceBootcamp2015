@@ -1,5 +1,4 @@
-
-*Instructor:* Luca Foschini
+*Instructor:* Luca Foschini (email: foschini@cs.ucsb.edu) (twitter: @calimagna)
 
 *Format:* lecture an demo from instructor
 
