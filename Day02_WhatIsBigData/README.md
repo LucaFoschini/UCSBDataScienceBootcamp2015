@@ -1,5 +1,6 @@
 
 *Instructor:* Luca Foschini
+
 *Format:* lecture an demo from instructor
 
 # Goals
