@@ -60,8 +60,7 @@ However, unlike the previous setup, your local machine doesn't have the home dir
 running the notebooks, so you'll have to login to the remote machine on csil explicitly to access the files read/written 
 by the notebooks.
 
-*TL;DR:* you work on a workstation in Cooper lab; notebooks run remotely and you have to access to remote machine to see
-files in your home directory.
+*TL;DR:* you work your laptop; notebooks run remotely but you access them through your local machine. The files read/written by notebooks live on a remote machine you have to log in to.
 
 To do this:
 
