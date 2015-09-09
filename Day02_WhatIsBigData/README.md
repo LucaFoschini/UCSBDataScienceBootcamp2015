@@ -4,13 +4,13 @@
 - What is big data?
 - Apache Spark demo
 
-# Memory hierarchies and network latency
+## Memory hierarchies and network latency
 
 - Memories: Cache, RAM, Disk.
 - Why is my code running slow? 
 - What is big data?
 
-# Apache Spark
+## Apache Spark
 
 - Distibuted memory
 - The cloud is the limit. (EC2)
