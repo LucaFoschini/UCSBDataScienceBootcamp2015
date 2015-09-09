@@ -1,6 +1,6 @@
 *Instructor:* Luca Foschini (email: foschini@cs.ucsb.edu) (twitter: @calimagna)
 
-*Format:* lecture an hands-on
+*Format:* lecture and hands-on
 
 # Announcements:
   - Tweet your thoughts! #UCSBDSbootcamp2015
