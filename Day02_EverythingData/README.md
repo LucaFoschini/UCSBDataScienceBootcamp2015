@@ -22,6 +22,6 @@ IGERT ⊂ network science ⊂ data science.
 
 ## Data Exploration
 
-  - Manipulate text, networks, time series.
+  - Work with text, networks, time series.
   - Interesting notebook gallery
   - Miniproject
