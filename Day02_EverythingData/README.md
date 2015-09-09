@@ -24,3 +24,4 @@ IGERT ⊂ network science ⊂ data science.
 
   - Manipulate text, networks, time series.
   - Interesting notebook gallery
+  - Miniproject
