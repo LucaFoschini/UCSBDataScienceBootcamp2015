@@ -6,7 +6,7 @@
 
 ## Before you Begin
   - Commit your code locally
-  - do a ```git pull````
+  - do a ```git pull```
   - Load up on positive attitude! We're all learning here :)
 
 ## Intro
