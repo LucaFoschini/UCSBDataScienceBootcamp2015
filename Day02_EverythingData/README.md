@@ -23,7 +23,7 @@ IGERT ⊂ network science ⊂ data science.
   - Python [basics](../Day02_EverythingData/notebooks/02%20-%20Introduction%20to%20Python.ipynb)
   - All Python [can do](..//Day02_EverythingData/notebooks/03%20-%20Libraries%20and%20Integration.ipynb)!
   - Numpy and Pandas (the missing library for [data manipulation](..//Day02_EverythingData/notebooks/04%20-%20Data%20Wrangling.ipynb)
-  - Speed (consideration)[..//Day02_EverythingData/notebooks/05%20-%20Theory%20and%20Practice.ipynb]
+  - Speed [consideration](..//Day02_EverythingData/notebooks/05%20-%20Theory%20and%20Practice.ipynb)
 
 ## Data Exploration
 
