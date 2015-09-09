@@ -1,6 +1,6 @@
 *Instructor:* Luca Foschini (email: foschini@cs.ucsb.edu) (twitter: @calimagna)
 
-*Format:* lecture ans demo from instructor
+*Format:* lecture and demo from instructor
 
 # Goals
 
