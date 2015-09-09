@@ -23,5 +23,5 @@ IGERT ⊂ network science ⊂ data science.
 ## Data Exploration
 
   - Work with text, networks, time series.
-  - Interesting notebook gallery
+  - [Interesting notebook gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#introductory-tutorials). Pick one!
   - Miniproject
