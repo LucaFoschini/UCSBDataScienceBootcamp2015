@@ -17,13 +17,14 @@ IGERT ⊂ network science ⊂ data science.
 ```
   - Recap of using shell, git, notebooks see: [here](../setup.md)
   - Data science, [what is it](..//Day02_EverythingData/notebooks/01%20-%20Data%20Science.ipynb)? Why is it [The Sexiest Job of the Century?](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+  - Don't try this at home (I haven't either! --- Quick demo)
 
 ## Data Wrangling and Exploration
 
   - Python [basics](../Day02_EverythingData/notebooks/02%20-%20Introduction%20to%20Python.ipynb)
   - All Python [can do](..//Day02_EverythingData/notebooks/03%20-%20Libraries%20and%20Integration.ipynb)!
   - Numpy and Pandas (the missing library for [data manipulation](..//Day02_EverythingData/notebooks/04%20-%20Data%20Wrangling.ipynb)
-  - Speed [consideration](..//Day02_EverythingData/notebooks/05%20-%20Theory%20and%20Practice.ipynb)
+  - Speed [considerations](..//Day02_EverythingData/notebooks/05%20-%20Theory%20and%20Practice.ipynb)
 
 ## Data Exploration
 
