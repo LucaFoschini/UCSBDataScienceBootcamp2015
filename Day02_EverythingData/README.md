@@ -14,7 +14,7 @@
 IGERT ⊂ network science ⊂ data science.
 ```
   - Recap of using shell, git, notebooks see: [here](../../master/setup.md)
-  - Data science, [what is it](../../master/master/Day02_EverythingData/notebooks/01%20-%20Data%20Science.ipynb)? Why is it [The Sexiest Job of the Century?](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
+  - Data science, [what is it](../master/Day02_EverythingData/notebooks/01%20-%20Data%20Science.ipynb)? Why is it [The Sexiest Job of the Century?](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)
 
 ## Data Wrangling and Exploration
 
