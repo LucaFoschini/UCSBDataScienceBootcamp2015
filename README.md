@@ -43,16 +43,16 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
   - Introduction to Visualization
       -visual variables, design, types etc.
-  - Visualization in Academia and Industry
-  - Visualizing Live Twitter Data (Demo)
-  - Anatomy of a research paper in Visualization
+  - Visualization of Social Media Data (Demos and Techniques)    
+  - Visualizing Live Twitter Data with Python and D3JS (Hands-on Project)
+  
 
 ## [Visualization II (Day 3)](../..//tree/master/Day03_Vizualization2)
-
+  - Visual Analytics
   - Visualizing live feeds using Python and Plot.ly (Hands-on)
-  - Visualizing network data (Fluo, TopicNets Demos) 
-  - Visualizing data in R (Hands on)
   - Interactive Visualization (Demo)
+  - Visualization in Academia and Industry
+  - Anatomy of a research paper in Visualization
   
 
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
