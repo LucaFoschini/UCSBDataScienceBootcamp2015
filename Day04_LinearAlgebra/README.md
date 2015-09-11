@@ -1,7 +1,12 @@
 # Linear Algebra
 
 ## Goal:
-The goal of the course is to introduce basic concepts of linear algebra.
+The goal of the course is to introduce fundamental concepts of linear algebra
+with applications to graph theory.
+
+## Resources:
+* [Slides](slides.pdf)
+* [Examples](examples.zip)
 
 ## Outline:
 =======
@@ -13,7 +18,6 @@ The goal of the course is to introduce basic concepts of linear algebra.
 
 * Linear Algebra and Graphs
   * Graphs: definitions, properties, representation
-  * Graph algorithms in the language of linear algebra
   * Spectral graph theory
     - Spectrum of adjacency matrix
     - Laplacians and graph partitioning
