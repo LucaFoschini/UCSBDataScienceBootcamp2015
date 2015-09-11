@@ -61,7 +61,7 @@ To get started  follow the intructions here:
   - Visualization in Academia and Industry
   - Anatomy of a research paper in Visualization
   
-## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
+## [Linear Algebra and Graphs (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
   * Review of Linear Algebra's Fundamentals
     * Matrix arithmetic

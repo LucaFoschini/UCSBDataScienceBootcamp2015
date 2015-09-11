@@ -1,4 +1,4 @@
-# Linear Algebra
+# Linear Algebra and Graphs
 
 ## Goal:
 The goal of the course is to introduce fundamental concepts of linear algebra
