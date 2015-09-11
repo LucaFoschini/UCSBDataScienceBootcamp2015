@@ -80,7 +80,7 @@ To get started  follow the intructions here:
   - some organized/categorial view of what each of these data structures are good for, and how they compare in cost/benefit
   - NP Hardness (TSP vs Eulerian Path)
 
-## [Graph Algorithms I (Day 6)](../..//tree/master/Day06_GraphAlgorithms1)
+## [Graph Algorithms I (Day 5)](../..//tree/master/Day06_GraphAlgorithms1)
 
   - Graph definitions (directed, undirected, weighted, unweighted, trees, cycles, bipartite, complete) etc…
   - Graph representations (adjacency matrix, adjacency list); pros and cons; 
