@@ -64,14 +64,14 @@ To get started  follow the intructions here:
 ## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
   * Review of Linear Algebra's Fundamentals
-    * Matrix algebra
+    * Matrix arithmetic
+    * Inversion and Linear Systems  
     * Vector spaces
     * Angles, lengths, projection
     * Eigenproblem, SVD
 
   * Linear Algebra and Graphs
     * Graphs: definitions, properties, representation
-    * Graph algorithms in the language of linear algebra
     * Spectral graph theory
 
 ## [Introduction to Algorithms (Day 5)](../..//tree/master/Day05_AlgorithmBasics)
