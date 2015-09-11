@@ -9,9 +9,9 @@ with applications to graph theory.
 * [Examples](examples.zip)
 
 ## Outline:
-=======
 * Review of Linear Algebra's Fundamentals
-  * Matrix algebra (addition, multiplication, inversion, linear systems, determinants)
+  * Matrix arithmetic (addition, multiplication)
+  * Inversion and Linear Systems (LU, existence and uniqueness of solutions)
   * Vector spaces (definitions, fundamental subspaces, linear independence, basis, rank)
   * Angles, lengths, projection
   * Eigenvalues, eigenvectors, their localization and computation, eigendecomposition, SVD
