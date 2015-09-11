@@ -2,7 +2,8 @@
 
 * Why statistics is important
 
-* The normal distribution
+* Random variables and The normal distribution
+	* Definition
 	* PDF of normal
 	* What is a PDF? What are we looking at?
 	* How plot of PDF changes as parameters change
