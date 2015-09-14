@@ -5,7 +5,7 @@
 # Announcements:
   - Lunch with Prof. Alberto Busetto (ECE) at 12noon
   - Afternoon class (Introduction to Graph Algorithms) starts at 1.30pm
-  - Take some time at the end of hte day to compute the daily survey
+  - Take some time at the end of hte day to take the daily survey
   
 # Goals
 
@@ -35,5 +35,5 @@
 
 ## Beyond:
   - Google coding interviews
-  - Programming contests IPSC/ACM/IOI
+  - Programming contests IPSC/ACM Collegiate Programming/IOI
   - Algorithmic resources: [Introduction to Algorithms](http://www.mif.vu.lt/~valdas/ALGORITMAI/LITERATURA/Cormen/Cormen.pdf)
