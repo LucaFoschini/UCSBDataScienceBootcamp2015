@@ -75,10 +75,11 @@ To get started  follow the intructions here:
     * Spectral graph theory
 
 ## [Introduction to Algorithms (Day 5)](../..//tree/master/Day05_AlgorithmBasics)
-
+  
+  - Computational thinking and algorithm complexity
   - Basic data structures:  arrays, lists, balanced binary trees (sets), hash tables (dicts); 
-  - some organized/categorial view of what each of these data structures are good for, and how they compare in cost/benefit
-  - NP Hardness (TSP vs Eulerian Path)
+  - Use of data structures in sort and searching.
+  - Introduction to NP hard problems
 
 ## [Graph Algorithms I (Day 5)](../..//tree/master/Day06_GraphAlgorithms1)
 
