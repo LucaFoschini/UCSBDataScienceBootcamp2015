@@ -139,5 +139,5 @@ To get started  follow the intructions here:
 
 ## [Hands-on Machine Learning (Day 8)](../..//tree/master/Day08_MachineLearning3)
 
-  - Fun with scikit-learn. 
-  - Deep learning example
+  - Fun with scikit-learn: two end-to-end examples of supervised and unsupervised learning
+  - Introduction to the concepts of Deep Learning 
