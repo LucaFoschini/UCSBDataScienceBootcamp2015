@@ -12,25 +12,32 @@ The goal of the course is to introduce students of the IGERT program to data sci
   
 ## Trainees
 
-  - Please check out the repository on your local computer
-  - Run the 'set_path.sh' script if using a computer from the Cooper lab
+To get started  follow the intructions here:
+[Course setup](../..//tree/master/setup.md)
 
 # Syllabus
 
 ## [Computer Basics (Day 1)](../..//tree/master/Day01_ComputerBasics)
 
-  - Unix, terminal, ssh, textutils
-  - Introduce github, reproducibility and scientific method. Version control everything you do.
-  - Open source your data and code whenever you can.
-  - Introduction to Python on IPython notebook.
+  - Unix Basics
+    - How to open and use the terminal
+    - How to connect to Unix servers (ssh)
+    - Text manipulation and command-line magic
+  - Git
+    - The importance of version control
+    - Github, reproducibility and the scientific method
+  - Python and Jupyter notebooks
+    - Introduction to Python
+    - Jupyter (née IPython) notebooks
+    - Will be used throughout rest of the bootcamp
  
 ## [Everything Data (Day 2)](../..//tree/master/Day02_EverythingData)
 
   - What is data? Data representation in a computer
-  - Native data types in python: integer, list, dict, numpy arrays, pandas 
+  - Native data types in Python: integer, list, dict, numpy arrays, pandas 
   - From simple to complex: text, time series, networks, geometric objects
   - Discuss complexity of manipulation of these objects. 
-  - Load and visualize different datasets on python
+  - Load and visualize different datasets on Python.
 
 ## [Small Data, Big Data (Day 2)](../..//tree/master/Day02_WhatIsBigData)
 
@@ -43,39 +50,38 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
   - Introduction to Visualization
       -visual variables, design, types etc.
-  - Visualization in Academia and Industry
-  - Visualizing Live Twitter Data (Demo)
-  - Anatomy of a research paper in Visualization
+  - Visualization of Social Media Data (Demos and Techniques)    
+  - Visualizing Live Twitter Data with Python and D3JS (Hands-on Project)
+  
 
 ## [Visualization II (Day 3)](../..//tree/master/Day03_Vizualization2)
-
+  - Visual Analytics
   - Visualizing live feeds using Python and Plot.ly (Hands-on)
-  - Visualizing network data (Fluo, TopicNets Demos) 
-  - Visualizing data in R (Hands on)
   - Interactive Visualization (Demo)
+  - Visualization in Academia and Industry
+  - Anatomy of a research paper in Visualization
   
-## [Linear Algebra (Day 4)](../..//tree/master/Day04_LinearAlgebra)
+## [Linear Algebra and Graphs (Day 4)](../..//tree/master/Day04_LinearAlgebra)
 
   * Review of Linear Algebra's Fundamentals
-    * Matrix algebra (addition, multiplication, inversion, linear systems, determinants)
-    * Vector spaces (definitions, fundamental subspaces, linear independence, basis, rank)
-	* Angles, lengths, projection
-    * Eigenvalues, eigenvectors, their localization and computation, eigendecomposition, SVD
+    * Matrix arithmetic
+    * Inversion and Linear Systems  
+    * Vector spaces
+    * Angles, lengths, projection
+    * Eigenproblem, SVD
 
   * Linear Algebra and Graphs
-	* Graphs: definitions, properties, representation
-    * Graph algorithms in the language of linear algebra
+    * Graphs: definitions, properties, representation
     * Spectral graph theory
-		- Spectrum of adjacency matrix
-		- Laplacians and graph partitioning
 
 ## [Introduction to Algorithms (Day 5)](../..//tree/master/Day05_AlgorithmBasics)
-
+  
+  - Computational thinking and algorithm complexity
   - Basic data structures:  arrays, lists, balanced binary trees (sets), hash tables (dicts); 
-  - some organized/categorial view of what each of these data structures are good for, and how they compare in cost/benefit
-  - NP Hardness (TSP vs Eulerian Path)
+  - Use of data structures in sort and searching.
+  - Introduction to NP hard problems
 
-## [Graph Algorithms I (Day 6)](../..//tree/master/Day06_GraphAlgorithms1)
+## [Graph Algorithms I (Day 5)](../..//tree/master/Day06_GraphAlgorithms1)
 
   - Graph definitions (directed, undirected, weighted, unweighted, trees, cycles, bipartite, complete) etc…
   - Graph representations (adjacency matrix, adjacency list); pros and cons; 
@@ -84,16 +90,16 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Graph Algorithms II (Day 6)](../..//tree/master/Day06_GraphAlgorithms2)
 
-  - Algorithms on Graphs.
-  - Connectivity SP: directed & undirected, Diameter, BFS/DFS, single source, all pairs shortest paths
-  - Diameter, BC, partitioning
-  - Example on how to compute the above in NetworkX (+ visualization) 
-  - Examples in NetworkX on real networks (social, brain)
-  - Random graphs
-  - Preferential attachment
-  - Small-world networks
-  - Large-scale and dynamics of real graphs (Web, facebook etc.)
-  - Activities: Generating and characterizing several graphs (both synthetic and real)., counting triangles. Visualization using graphViz
+  * Algorithms on Graphs.
+  * Introduction to special classes of graphs
+  * Demonstration of a few algorithms above in networkX
+  * Examples in NetworkX on real networks (social, brain)
+  * Preferential attachment
+  * Small-world networks
+  * Hands-on
+     * Generating and characterizing several graphs (both synthetic and real)
+     * Counting triangles
+     * Visualization using GraphViz
 
 ## [Dynamical Systems (Day 6)](../..//tree/master/Day06_DynamicalSystems)
 
@@ -133,5 +139,5 @@ The goal of the course is to introduce students of the IGERT program to data sci
 
 ## [Hands-on Machine Learning (Day 8)](../..//tree/master/Day08_MachineLearning3)
 
-  - Fun with scikit-learn. 
-  - Deep learning example
+  - Fun with scikit-learn: two end-to-end examples of supervised and unsupervised learning
+  - Introduction to the concepts of Deep Learning 
