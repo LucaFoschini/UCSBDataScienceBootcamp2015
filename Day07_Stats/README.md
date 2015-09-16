@@ -1,16 +1,11 @@
 # Syllabus
 
-* Basic probability and combinatorics.
-	* Discrete distributions
-	* Continuous distributions
-	* Moments
-	* Entropy
+* Why statistics is important
 
-* Significance and p-values
-	* Simulation example
-	* T-test
-	* Wilcoxon test
+* Random variables and The normal distribution
 
-* Regression, controlling, example in R
-	* Intuitive explanation
-	* Walk through example
+* Histograms and Univariate Data Exploration
+
+* Estimation
+
+* (Maybe) Scatterplots and Bivariate Data Exploration
