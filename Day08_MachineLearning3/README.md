@@ -35,7 +35,7 @@
 ## Beyond:
 
   - scikit-learn [extensions](http://scikit-learn.org/stable/related_projects.html)
-  - [Kaggle])https://www.kaggle.com/)
+  - [Kaggle](https://www.kaggle.com/)
   - [datatau](http://www.datatau.com/)
   - [KDNuggets](http://www.kdnuggets.com/)
   - [MOOC](https://www.coursera.org/learn/machine-learning), [books](http://aima.cs.berkeley.edu/) 
