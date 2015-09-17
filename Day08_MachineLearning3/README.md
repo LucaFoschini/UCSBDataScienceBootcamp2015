@@ -25,7 +25,7 @@
 ## Hands-on examples
   - [scikit-learn](http://scikit-learn.org/stable/) [cheat-sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
   - [scikit-learn tutorial](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html#stat-learn-tut-index)
-  - 
+
 ### Supervised learning
   - [Underfitting vs. Overfitting](http://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html#example-model-selection-plot-underfitting-overfitting-py)
   - [Confusion matrix](http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html#example-model-selection-plot-confusion-matrix-py)
@@ -45,7 +45,7 @@
 
 ## Deep learning
   - What is it all about?
-  - Libraries: [caffe](http://caffe.berkeleyvision.org/), [torch7](https://github.com/torch/torch7/wiki/Cheatsheet), [pointers](http://deeplearning.net/tutorial/lstm.html).
+  - Libraries: [caffe](http://caffe.berkeleyvision.org/), [torch7](https://github.com/torch/torch7/wiki/Cheatsheet), [pointers](http://deeplearning.net/tutorial/lstm.html), [word2vec](https://code.google.com/p/word2vec/)
   - [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [LSTM](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
   
 ## Beyond:
