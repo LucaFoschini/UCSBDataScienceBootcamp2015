@@ -23,17 +23,19 @@
   - No, seriously, it's [everywhere](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). And it's [not new](http://m.mind.oxfordjournals.org/content/LIX/236/433.full.pdf)
   
 ## End-to-end examples
-  - python scikit-learn
+  - [scikit-learn](http://scikit-learn.org/stable/) [cheat-sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
   - Supervised learning
   - Unsupervised learning
 
 ## Deep learning
   - What is it all about?
-  - What is it good for? (And what is not)
-  - Libraries and pointers.
+  - Libraries: [caffe](http://caffe.berkeleyvision.org/), [torch7](https://github.com/torch/torch7/wiki/Cheatsheet), [pointers](http://deeplearning.net/tutorial/lstm.html).
+  - [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [LSTM](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
   
 ## Beyond:
-  - datatau
-  - books 
-  - Kaggle competitions
-  - KDDNuggets
+
+  - scikit-learn [extensions](http://scikit-learn.org/stable/related_projects.html)
+  - [Kaggle])https://www.kaggle.com/)
+  - [datatau](http://www.datatau.com/)
+  - [KDNuggets](http://www.kdnuggets.com/)
+  - [MOOC](https://www.coursera.org/learn/machine-learning), [books](http://aima.cs.berkeley.edu/) 
