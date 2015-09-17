@@ -45,8 +45,8 @@
 
 ## Deep learning
   - What is it all about?
-  - Libraries: [caffe](http://caffe.berkeleyvision.org/), [torch7](https://github.com/torch/torch7/wiki/Cheatsheet), [pointers](http://deeplearning.net/tutorial/lstm.html), [word2vec](https://code.google.com/p/word2vec/)
-  - [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [LSTM](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
+  - Libraries: [caffe](http://caffe.berkeleyvision.org/), [torch7](https://github.com/torch/torch7/wiki/Cheatsheet), [word2vec](https://code.google.com/p/word2vec/)
+  - [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), [LSTM](http://deeplearning.net/tutorial/lstm.html) [stack-RNN](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
   
 ## Beyond
 
