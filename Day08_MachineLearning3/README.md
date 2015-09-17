@@ -19,8 +19,8 @@
 
 ## Intro
  
-  - Why are we where today? [Case about machine learning]
-  - Machine learning in practice
+  - Why machine learning? It's in [the news!](http://www.technologyreview.com/view/541276/deep-learning-machine-teaches-itself-chess-in-72-hours-plays-at-international-master/) and [on youtube](https://www.youtube.com/watch?v=V1eYniJ0Rnk)
+  - No, seriously, it's [everywhere](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). And it's [not new](http://m.mind.oxfordjournals.org/content/LIX/236/433.full.pdf)
   
 ## End-to-end examples
   - python scikit-learn
